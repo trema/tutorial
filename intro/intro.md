@@ -12,6 +12,7 @@
 
 ## Implement a "L2 switch with traffic monitoring" controller
 
+* Tutorial Kit: <https://github.com/trema/tutorial.files>
 * This tutorial consists of five small sections starting from "Hello World"
 * Let's go through the entire cycle of OpenFlow controller development using Trema
 
