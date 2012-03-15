@@ -1,7 +1,7 @@
 # Quick Start
 
-	git clone git://github.com/trema/GEC13.git
-	cd GEC13
+	git clone git://github.com/trema/tutorial.git
+	cd tutorial
 
 	# run the standard presentation
 	showoff serve
