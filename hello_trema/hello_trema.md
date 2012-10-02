@@ -112,12 +112,12 @@
 	    # ...
 	  end
 	      
-	  def packet_in dpid, msg  # automatically caled when receiving a packet-in
+	  def packet_in dpid, msg  # automatically called when receiving a packet-in
 	    # ...
 	  end
 	end
 
-* Trema uses retrospection to dispatch events to registered handlers
+* Trema uses introspection to dispatch events to registered handlers
 * No need to explicitly dispatch or register handlers just define it
 
 
